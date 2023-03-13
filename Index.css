@@ -1,0 +1,15 @@
+body{
+    display: block;
+}
+.Inicio{
+    border: 1px solid black;
+    background-color: #f38722;
+    float: left;
+    width: 10%;
+}
+.Contenido{
+    border: 1px solid black;
+    background-color: #f38722;
+    float: right;
+    width: 80%;
+}
